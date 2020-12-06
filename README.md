@@ -1,8 +1,4 @@
-# lecture_edit_in_place
-
-Lecture about editing in-place a textarea.  
-There are two interesting branches:
-
-* _master_ or _buttons_ : A text area using buttons. 
-* _no_buttons_ : A text area not using buttons. 
-
+!! source ~/.zshrc
+### conda activate py4web
+### python py4web.py run apps
+http://127.0.0.1:8000/
